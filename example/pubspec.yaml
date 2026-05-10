@@ -5,7 +5,7 @@ description: "Demonstrates how to use the mp4_mov_convert plugin."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ^3.9.2
+  sdk: ^3.3.0
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -34,7 +34,7 @@ dependencies:
   
   # For path operations
   path_provider: ^2.1.5
-  path: ^1.9.1
+  path: ^1.9.0
 
 dev_dependencies:
   integration_test:
